@@ -1,0 +1,15 @@
+/home/tkettle/code/dotnet-tutorials/rest/bin/Debug/netcoreapp3.0/REST
+/home/tkettle/code/dotnet-tutorials/rest/bin/Debug/netcoreapp3.0/REST.deps.json
+/home/tkettle/code/dotnet-tutorials/rest/bin/Debug/netcoreapp3.0/REST.runtimeconfig.json
+/home/tkettle/code/dotnet-tutorials/rest/bin/Debug/netcoreapp3.0/REST.runtimeconfig.dev.json
+/home/tkettle/code/dotnet-tutorials/rest/bin/Debug/netcoreapp3.0/REST.dll
+/home/tkettle/code/dotnet-tutorials/rest/bin/Debug/netcoreapp3.0/REST.pdb
+/home/tkettle/code/dotnet-tutorials/rest/obj/Debug/netcoreapp3.0/REST.csprojAssemblyReference.cache
+/home/tkettle/code/dotnet-tutorials/rest/obj/Debug/netcoreapp3.0/REST.csproj.CoreCompileInputs.cache
+/home/tkettle/code/dotnet-tutorials/rest/obj/Debug/netcoreapp3.0/REST.AssemblyInfoInputs.cache
+/home/tkettle/code/dotnet-tutorials/rest/obj/Debug/netcoreapp3.0/REST.AssemblyInfo.cs
+/home/tkettle/code/dotnet-tutorials/rest/obj/Debug/netcoreapp3.0/REST.dll
+/home/tkettle/code/dotnet-tutorials/rest/obj/Debug/netcoreapp3.0/REST.pdb
+/home/tkettle/code/dotnet-tutorials/rest/bin/Debug/netcoreapp3.0/HtmlAgilityPack.dll
+/home/tkettle/code/dotnet-tutorials/rest/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/home/tkettle/code/dotnet-tutorials/rest/obj/Debug/netcoreapp3.0/REST.csproj.CopyComplete
